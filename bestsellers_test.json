@@ -1,0 +1,19 @@
+{  
+  1: {
+    id: 1,
+    title: "THE GIRL ON THE TRAIN",  
+    author: "Paula Hawkins",
+    isbn13: "9780698185395",
+    description: "A  psychological thriller set in London is full of complications and betrayals."
+  },
+
+  2: {
+    id: 2,
+    title: "SAINT ODD",
+    author: "Dean Koontz",
+    isbn13: "9780345545886",
+    description: "In the conclusion to the Odd Thomas series, Odd, who can communicate with the dead, returns home to small-town California to meet one last challenge."
+  }
+}
+
+
